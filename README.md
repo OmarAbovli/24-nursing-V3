@@ -4,13 +4,11 @@
 
 This project is built with:
 
-- Vite
-- TypeScript
-- React
+- Vite- TypeScript- React
 - shadcn-ui
 - Tailwind CSS
 - node.js
 
-## how to run?
+## how to run
 - npm i
 - npm run dev
